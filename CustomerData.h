@@ -1,4 +1,3 @@
-#pragma once
 #include "Person.h"
 #include "PhoneNumber.h"
 using namespace std;
